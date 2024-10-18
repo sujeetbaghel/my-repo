@@ -1,3 +1,5 @@
+//primaryControl as parameter
+
 function isRecordCreated(formControl) {
     // Get the record ID (GUID)
     var recordId = formControl.data.entity.getId();
