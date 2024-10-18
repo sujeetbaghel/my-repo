@@ -17,6 +17,7 @@ function opportunity(formControl){
          // Open the Opportunity form and pass the parameters
          var entityOptions = {
              entityName: "appointment",
+             //formId: formId,
              useQuickCreateForm: false
          };
          
